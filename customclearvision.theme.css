@@ -11,7 +11,6 @@
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 
 :root {
   --main-color: #FFC0CB;
@@ -98,11 +97,6 @@
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
-  --columns: 2;
-  --guildgap: 2;
-  --aligndms: 0;
 }
 
 /* Any custom CSS below here */
-
-
